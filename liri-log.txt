@@ -1,0 +1,607 @@
+
+*--------------------------------------------
+   BandsInTown API (concert-this) 
+-------------------------------------------*
+
+*** maroon 5's upcoming concerts ***
+Venue: Brisbane Entertainment Centre
+
+Location: Brisbane, Australia
+Date/time: 02/19/2019
+------------------------------
+Venue: Qudos Bank Arena
+Location: Sydney, Australia
+Date/time: 02/21/2019
+------------------------------
+Venue: Rod Laver Arena
+Date/time: 02/22/2019
+Location: Melbourne, Australia
+------------------------------
+Venue: Tokyo Dome
+Location: Tokyo, Japan
+Date/time: 02/25/2019
+------------------------------
+Venue: Gocheok Sky Dome
+Location: Seoul, South Korea
+------------------------------
+Date/time: 02/27/2019
+Location: Kaohsiung City, Taiwan
+Date/time: 03/01/2019
+Venue: TBA
+------------------------------
+Venue: TBA
+Location: Macau, Macau
+------------------------------
+Venue: SM Mall Of Asia
+Date/time: 03/05/2019
+Location: Manila, Philippines
+------------------------------
+Date/time: 03/03/2019
+Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
+------------------------------
+Date/time: 03/07/2019
+Venue: CHALLENGER HALL
+Date/time: 03/09/2019
+Location: Bangkok, Thailand
+------------------------------
+Venue: Mollenpark
+Date/time: 06/01/2019
+------------------------------
+Location: Aalborg, Denmark
+Venue: Lanxess Arena
+Location: Cologne, Germany
+------------------------------
+Date/time: 06/03/2019
+Venue: O2 ARENA
+Location: Prague, Czech Republic
+Venue: Tauron Arena
+Date/time: 06/05/2019
+Date/time: 06/06/2019
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+------------------------------
+------------------------------
+------------------------------
+Location: Paris, France
+------------------------------
+Date/time: 06/11/2019
+Venue: AccorHotels Arena
+Location: Kraków, Poland
+Date/time: 06/10/2019
+
+*--------------------------------------------
+       BandsInTown API (concert-this) 
+------------------------------------------*
+
+
+*** maroon 5's upcoming concerts ***
+Venue: Brisbane Entertainment Centre
+Date/time: 02/19/2019
+------------------------------
+Location: Brisbane, Australia
+Venue: Qudos Bank Arena
+Location: Sydney, Australia
+Date/time: 02/21/2019
+------------------------------
+Venue: Rod Laver Arena
+Location: Melbourne, Australia
+Date/time: 02/22/2019
+------------------------------
+Venue: Tokyo Dome
+Location: Tokyo, Japan
+Date/time: 02/25/2019
+------------------------------
+Venue: Gocheok Sky Dome
+Location: Seoul, South Korea
+------------------------------
+Location: Kaohsiung City, Taiwan
+------------------------------
+Venue: TBA
+Location: Macau, Macau
+Date/time: 03/03/2019
+------------------------------
+Venue: SM Mall Of Asia
+Date/time: 03/05/2019
+Location: Manila, Philippines
+------------------------------
+Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
+------------------------------
+Venue: CHALLENGER HALL
+Location: Bangkok, Thailand
+Date/time: 03/09/2019
+Date/time: 03/07/2019
+------------------------------
+Venue: Mollenpark
+Location: Aalborg, Denmark
+Date/time: 06/01/2019
+------------------------------
+Venue: Lanxess Arena
+Date/time: 06/03/2019
+Location: Cologne, Germany
+------------------------------
+Venue: O2 ARENA
+Location: Prague, Czech Republic
+Date/time: 06/05/2019
+------------------------------
+Venue: Tauron Arena
+Location: Kraków, Poland
+Date/time: 06/06/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date/time: 06/10/2019
+------------------------------
+Venue: AccorHotels Arena
+Location: Paris, France
+------------------------------
+Date/time: 06/11/2019
+Date/time: 02/27/2019
+Date/time: 03/01/2019
+Venue: TBA
+
+*--------------------------------------------
+       BandsInTown API (concert-this) 
+---------------------------------------------*
+
+*** maroon 5's upcoming concerts ***
+Venue: Brisbane Entertainment Centre
+Date/time: 02/19/2019
+------------------------------
+Location: Brisbane, Australia
+Venue: Qudos Bank Arena
+Date/time: 02/21/2019
+Location: Sydney, Australia
+------------------------------
+Venue: Rod Laver Arena
+Location: Melbourne, Australia
+Date/time: 02/22/2019
+------------------------------
+Venue: Tokyo Dome
+Location: Tokyo, Japan
+Date/time: 02/25/2019
+------------------------------
+Venue: Gocheok Sky Dome
+Location: Seoul, South Korea
+Date/time: 02/27/2019
+------------------------------
+Venue: TBA
+Location: Kaohsiung City, Taiwan
+Date/time: 03/01/2019
+------------------------------
+Venue: TBA
+
+Location: Macau, Macau
+Date/time: 03/03/2019
+------------------------------
+Venue: SM Mall Of Asia
+Location: Manila, Philippines
+Date/time: 03/05/2019
+------------------------------
+Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
+Date/time: 03/07/2019
+------------------------------
+Location: Bangkok, Thailand
+Venue: CHALLENGER HALL
+Date/time: 03/09/2019
+------------------------------
+Venue: Mollenpark
+Location: Aalborg, Denmark
+Date/time: 06/01/2019
+------------------------------
+Venue: Lanxess Arena
+Location: Cologne, Germany
+Date/time: 06/03/2019
+------------------------------
+Location: Prague, Czech Republic
+Date/time: 06/05/2019
+Venue: O2 ARENA
+------------------------------
+Venue: Tauron Arena
+Location: Kraków, Poland
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date/time: 06/10/2019
+------------------------------
+Venue: AccorHotels Arena
+Location: Paris, France
+Date/time: 06/11/2019
+------------------------------
+Date/time: 06/06/2019
+
+*--------------------------------------------
+         BandsInTown API (concert-this) 
+--------------------------------------------*
+
+*** maroon 5's upcoming concerts ***
+
+Venue: Brisbane Entertainment Centre
+Location: Brisbane, Australia
+Date/time: 02/19/2019
+------------------------------
+Location: Sydney, Australia
+Date/time: 02/21/2019
+------------------------------
+Venue: Rod Laver Arena
+Location: Melbourne, Australia
+------------------------------
+Venue: Tokyo Dome
+Date/time: 02/25/2019
+Location: Tokyo, Japan
+------------------------------
+Venue: Gocheok Sky Dome
+Date/time: 02/22/2019
+Location: Seoul, South Korea
+Date/time: 02/27/2019
+------------------------------
+Date/time: 03/01/2019
+------------------------------
+Venue: TBA
+Location: Macau, Macau
+Date/time: 03/03/2019
+------------------------------
+Venue: SM Mall Of Asia
+Location: Manila, Philippines
+------------------------------
+Date/time: 03/05/2019
+Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
+Date/time: 03/07/2019
+------------------------------
+Venue: CHALLENGER HALL
+Date/time: 03/09/2019
+------------------------------
+Location: Bangkok, Thailand
+Venue: Mollenpark
+Location: Aalborg, Denmark
+------------------------------
+Date/time: 06/01/2019
+Venue: Lanxess Arena
+Date/time: 06/03/2019
+Location: Cologne, Germany
+------------------------------
+Venue: O2 ARENA
+Date/time: 06/05/2019
+Location: Prague, Czech Republic
+------------------------------
+Venue: Tauron Arena
+Location: Kraków, Poland
+Date/time: 06/06/2019
+------------------------------
+Location: Amsterdam, Netherlands
+Venue: Ziggo Dome
+Date/time: 06/10/2019
+------------------------------
+Venue: AccorHotels Arena
+Date/time: 06/11/2019
+Location: Paris, France
+------------------------------
+Venue: Qudos Bank Arena
+Venue: TBA
+Location: Kaohsiung City, Taiwan
+
+*--------------------------------------------
+         BandsInTown API (concert-this) 
+--------------------------------------------*
+
+*** maroon 5's upcoming concerts ***
+
+Venue: Brisbane Entertainment Centre
+Date/time: 02/19/2019
+Location: Brisbane, Australia
+------------------------------
+Location: Sydney, Australia
+Venue: Qudos Bank Arena
+Date/time: 02/21/2019
+Venue: Rod Laver Arena
+------------------------------
+Date/time: 02/22/2019
+------------------------------
+Venue: Tokyo Dome
+Date/time: 02/25/2019
+Location: Melbourne, Australia
+Location: Tokyo, Japan
+------------------------------
+Location: Seoul, South Korea
+Location: Kaohsiung City, Taiwan
+Venue: TBA
+Date/time: 03/01/2019
+------------------------------
+Venue: TBA
+Location: Macau, Macau
+Date/time: 03/03/2019
+------------------------------
+Venue: SM Mall Of Asia
+Location: Manila, Philippines
+Date/time: 03/05/2019
+------------------------------
+Venue: NATIONAL STADIUM
+Date/time: 03/07/2019
+------------------------------
+Location: Singapore, Singapore
+Venue: CHALLENGER HALL
+Location: Bangkok, Thailand
+Date/time: 03/09/2019
+------------------------------
+Venue: Mollenpark
+Date/time: 06/01/2019
+Location: Aalborg, Denmark
+------------------------------
+Venue: Lanxess Arena
+Location: Cologne, Germany
+Date/time: 06/03/2019
+------------------------------
+Venue: O2 ARENA
+Location: Prague, Czech Republic
+Date/time: 06/05/2019
+------------------------------
+Venue: Tauron Arena
+Location: Kraków, Poland
+Date/time: 06/06/2019
+------------------------------
+Date/time: 06/10/2019
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+------------------------------
+Venue: AccorHotels Arena
+Location: Paris, France
+Date/time: 06/11/2019
+------------------------------
+------------------------------
+Venue: Gocheok Sky Dome
+Date/time: 02/27/2019
+
+*--------------------------------------------
+         BandsInTown API (concert-this) 
+--------------------------------------------*
+
+*** maroon 5's upcoming concerts ***
+
+Venue: Brisbane Entertainment Centre
+Location: Brisbane, Australia
+Date/time: 02/19/2019
+------------------------------
+Location: Sydney, Australia
+Venue: Qudos Bank Arena
+Date/time: 02/21/2019
+------------------------------
+Venue: Rod Laver Arena
+Location: Melbourne, Australia
+Date/time: 02/22/2019
+------------------------------
+Venue: Tokyo Dome
+Location: Tokyo, Japan
+------------------------------
+Date/time: 02/25/2019
+Venue: Gocheok Sky Dome
+Location: Seoul, South Korea
+Date/time: 02/27/2019
+------------------------------
+Venue: TBA
+Date/time: 03/01/2019
+------------------------------
+Location: Kaohsiung City, Taiwan
+Venue: TBA
+Location: Macau, Macau
+Date/time: 03/03/2019
+------------------------------
+Location: Manila, Philippines
+Venue: SM Mall Of Asia
+Date/time: 03/05/2019
+------------------------------
+Location: Singapore, Singapore
+Venue: NATIONAL STADIUM
+Date/time: 03/07/2019
+------------------------------
+Venue: CHALLENGER HALL
+Location: Bangkok, Thailand
+Date/time: 03/09/2019
+------------------------------
+Venue: Mollenpark
+Location: Aalborg, Denmark
+Date/time: 06/01/2019
+------------------------------
+Venue: Lanxess Arena
+Date/time: 06/03/2019
+Location: Cologne, Germany
+------------------------------
+Venue: O2 ARENA
+Location: Prague, Czech Republic
+Date/time: 06/05/2019
+------------------------------
+Location: Kraków, Poland
+Venue: Tauron Arena
+Date/time: 06/06/2019
+------------------------------
+Venue: Ziggo Dome
+Location: Amsterdam, Netherlands
+Date/time: 06/10/2019
+------------------------------
+Venue: AccorHotels Arena
+Location: Paris, France
+Date/time: 06/11/2019
+------------------------------
+
+*--------------------------------------------
+         BandsInTown API (concert-this) 
+--------------------------------------------*
+
+
+*** maroon 5's upcoming concerts ***
+Venue: Brisbane Entertainment Centre
+Location: Brisbane, Australia
+------------------------------
+Location: Sydney, Australia
+Date/time: 02/21/2019
+Date/time: 02/19/2019
+------------------------------
+Venue: Qudos Bank Arena
+Venue: Rod Laver Arena
+Date/time: 02/22/2019
+Date/time: 02/25/2019
+Venue: Tokyo Dome
+------------------------------
+Location: Seoul, South Korea
+Date/time: 02/27/2019
+Venue: Gocheok Sky Dome
+------------------------------
+Venue: TBA
+Date/time: 03/01/2019
+Location: Kaohsiung City, Taiwan
+------------------------------
+Venue: TBA
+Location: Melbourne, Australia
+------------------------------
+Date/time: 03/03/2019
+Venue: SM Mall Of Asia
+Date/time: 03/05/2019
+Location: Manila, Philippines
+------------------------------
+Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
+Date/time: 03/07/2019
+------------------------------
+Venue: CHALLENGER HALL
+Date/time: 03/09/2019
+Location: Bangkok, Thailand
+------------------------------
+Venue: Mollenpark
+Location: Aalborg, Denmark
+Date/time: 06/01/2019
+------------------------------
+Venue: Lanxess Arena
+Date/time: 06/03/2019
+Location: Cologne, Germany
+------------------------------
+Venue: O2 ARENA
+Date/time: 06/05/2019
+Location: Prague, Czech Republic
+------------------------------
+Venue: Tauron Arena
+------------------------------
+Location: Kraków, Poland
+------------------------------
+Location: Amsterdam, Netherlands
+Venue: Ziggo Dome
+Date/time: 06/10/2019
+------------------------------
+Venue: AccorHotels Arena
+Date/time: 06/11/2019
+Location: Macau, Macau
+------------------------------
+Location: Paris, France
+Date/time: 06/06/2019
+Location: Tokyo, Japan
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+
+*** All the Small Things's song info ***
+blink-182
+All The Small Things
+https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
+Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+
+*** All the Small Things's song info ***
+Artist: blink-182
+Link to song: https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
+Song: All The Small Things
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** All the Small Things's song info ***
+
+Artist: blink-182
+Song: All The Small Things
+Link to song: https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+
+*** All the Small Things's song info ***
+Artist: blink-182
+Song: All The Small Things
+Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+
+*** All the Small Things's song info ***
+Song: All The Small Things
+Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
+Artist: blink-182
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** All the Small Things's song info ***
+
+Artist: blink-182
+Song: All The Small Things
+Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** All the Small Things's song info ***
+
+Album: Enema Of The State
+Artist: blink-182
+Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
+Song: All The Small Things
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** All the Small Things's song info ***
+
+Artist: blink-182
+Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
+Song: All The Small Things
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** All the Small Things's song info ***
+
+Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
+Artist: blink-182
+Song: All The Small Things
+Album: Enema Of The State
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** All the Small Things's song info ***
+
+Artist: blink-182
+Song: All The Small Things
+Album: Enema Of The State
+Link to song: https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx
