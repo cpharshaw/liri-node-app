@@ -1,399 +1,44 @@
 
 *--------------------------------------------
-   BandsInTown API (concert-this) 
--------------------------------------------*
-
-*** maroon 5's upcoming concerts ***
-Venue: Brisbane Entertainment Centre
-
-Location: Brisbane, Australia
-Date/time: 02/19/2019
-------------------------------
-Venue: Qudos Bank Arena
-Location: Sydney, Australia
-Date/time: 02/21/2019
-------------------------------
-Venue: Rod Laver Arena
-Date/time: 02/22/2019
-Location: Melbourne, Australia
-------------------------------
-Venue: Tokyo Dome
-Location: Tokyo, Japan
-Date/time: 02/25/2019
-------------------------------
-Venue: Gocheok Sky Dome
-Location: Seoul, South Korea
-------------------------------
-Date/time: 02/27/2019
-Location: Kaohsiung City, Taiwan
-Date/time: 03/01/2019
-Venue: TBA
-------------------------------
-Venue: TBA
-Location: Macau, Macau
-------------------------------
-Venue: SM Mall Of Asia
-Date/time: 03/05/2019
-Location: Manila, Philippines
-------------------------------
-Date/time: 03/03/2019
-Venue: NATIONAL STADIUM
-Location: Singapore, Singapore
-------------------------------
-Date/time: 03/07/2019
-Venue: CHALLENGER HALL
-Date/time: 03/09/2019
-Location: Bangkok, Thailand
-------------------------------
-Venue: Mollenpark
-Date/time: 06/01/2019
-------------------------------
-Location: Aalborg, Denmark
-Venue: Lanxess Arena
-Location: Cologne, Germany
-------------------------------
-Date/time: 06/03/2019
-Venue: O2 ARENA
-Location: Prague, Czech Republic
-Venue: Tauron Arena
-Date/time: 06/05/2019
-Date/time: 06/06/2019
-Venue: Ziggo Dome
-Location: Amsterdam, Netherlands
-------------------------------
-------------------------------
-------------------------------
-Location: Paris, France
-------------------------------
-Date/time: 06/11/2019
-Venue: AccorHotels Arena
-Location: Kraków, Poland
-Date/time: 06/10/2019
-
-*--------------------------------------------
-       BandsInTown API (concert-this) 
-------------------------------------------*
-
-
-*** maroon 5's upcoming concerts ***
-Venue: Brisbane Entertainment Centre
-Date/time: 02/19/2019
-------------------------------
-Location: Brisbane, Australia
-Venue: Qudos Bank Arena
-Location: Sydney, Australia
-Date/time: 02/21/2019
-------------------------------
-Venue: Rod Laver Arena
-Location: Melbourne, Australia
-Date/time: 02/22/2019
-------------------------------
-Venue: Tokyo Dome
-Location: Tokyo, Japan
-Date/time: 02/25/2019
-------------------------------
-Venue: Gocheok Sky Dome
-Location: Seoul, South Korea
-------------------------------
-Location: Kaohsiung City, Taiwan
-------------------------------
-Venue: TBA
-Location: Macau, Macau
-Date/time: 03/03/2019
-------------------------------
-Venue: SM Mall Of Asia
-Date/time: 03/05/2019
-Location: Manila, Philippines
-------------------------------
-Venue: NATIONAL STADIUM
-Location: Singapore, Singapore
-------------------------------
-Venue: CHALLENGER HALL
-Location: Bangkok, Thailand
-Date/time: 03/09/2019
-Date/time: 03/07/2019
-------------------------------
-Venue: Mollenpark
-Location: Aalborg, Denmark
-Date/time: 06/01/2019
-------------------------------
-Venue: Lanxess Arena
-Date/time: 06/03/2019
-Location: Cologne, Germany
-------------------------------
-Venue: O2 ARENA
-Location: Prague, Czech Republic
-Date/time: 06/05/2019
-------------------------------
-Venue: Tauron Arena
-Location: Kraków, Poland
-Date/time: 06/06/2019
-------------------------------
-Venue: Ziggo Dome
-Location: Amsterdam, Netherlands
-Date/time: 06/10/2019
-------------------------------
-Venue: AccorHotels Arena
-Location: Paris, France
-------------------------------
-Date/time: 06/11/2019
-Date/time: 02/27/2019
-Date/time: 03/01/2019
-Venue: TBA
-
-*--------------------------------------------
-       BandsInTown API (concert-this) 
----------------------------------------------*
-
-*** maroon 5's upcoming concerts ***
-Venue: Brisbane Entertainment Centre
-Date/time: 02/19/2019
-------------------------------
-Location: Brisbane, Australia
-Venue: Qudos Bank Arena
-Date/time: 02/21/2019
-Location: Sydney, Australia
-------------------------------
-Venue: Rod Laver Arena
-Location: Melbourne, Australia
-Date/time: 02/22/2019
-------------------------------
-Venue: Tokyo Dome
-Location: Tokyo, Japan
-Date/time: 02/25/2019
-------------------------------
-Venue: Gocheok Sky Dome
-Location: Seoul, South Korea
-Date/time: 02/27/2019
-------------------------------
-Venue: TBA
-Location: Kaohsiung City, Taiwan
-Date/time: 03/01/2019
-------------------------------
-Venue: TBA
-
-Location: Macau, Macau
-Date/time: 03/03/2019
-------------------------------
-Venue: SM Mall Of Asia
-Location: Manila, Philippines
-Date/time: 03/05/2019
-------------------------------
-Venue: NATIONAL STADIUM
-Location: Singapore, Singapore
-Date/time: 03/07/2019
-------------------------------
-Location: Bangkok, Thailand
-Venue: CHALLENGER HALL
-Date/time: 03/09/2019
-------------------------------
-Venue: Mollenpark
-Location: Aalborg, Denmark
-Date/time: 06/01/2019
-------------------------------
-Venue: Lanxess Arena
-Location: Cologne, Germany
-Date/time: 06/03/2019
-------------------------------
-Location: Prague, Czech Republic
-Date/time: 06/05/2019
-Venue: O2 ARENA
-------------------------------
-Venue: Tauron Arena
-Location: Kraków, Poland
-------------------------------
-Venue: Ziggo Dome
-Location: Amsterdam, Netherlands
-Date/time: 06/10/2019
-------------------------------
-Venue: AccorHotels Arena
-Location: Paris, France
-Date/time: 06/11/2019
-------------------------------
-Date/time: 06/06/2019
-
-*--------------------------------------------
          BandsInTown API (concert-this) 
 --------------------------------------------*
 
-*** maroon 5's upcoming concerts ***
-
-Venue: Brisbane Entertainment Centre
-Location: Brisbane, Australia
-Date/time: 02/19/2019
-------------------------------
-Location: Sydney, Australia
-Date/time: 02/21/2019
-------------------------------
-Venue: Rod Laver Arena
-Location: Melbourne, Australia
-------------------------------
-Venue: Tokyo Dome
-Date/time: 02/25/2019
-Location: Tokyo, Japan
-------------------------------
-Venue: Gocheok Sky Dome
-Date/time: 02/22/2019
-Location: Seoul, South Korea
-Date/time: 02/27/2019
-------------------------------
-Date/time: 03/01/2019
-------------------------------
-Venue: TBA
-Location: Macau, Macau
-Date/time: 03/03/2019
-------------------------------
-Venue: SM Mall Of Asia
-Location: Manila, Philippines
-------------------------------
-Date/time: 03/05/2019
-Venue: NATIONAL STADIUM
-Location: Singapore, Singapore
-Date/time: 03/07/2019
-------------------------------
-Venue: CHALLENGER HALL
-Date/time: 03/09/2019
-------------------------------
-Location: Bangkok, Thailand
-Venue: Mollenpark
-Location: Aalborg, Denmark
-------------------------------
-Date/time: 06/01/2019
-Venue: Lanxess Arena
-Date/time: 06/03/2019
-Location: Cologne, Germany
-------------------------------
-Venue: O2 ARENA
-Date/time: 06/05/2019
-Location: Prague, Czech Republic
-------------------------------
-Venue: Tauron Arena
-Location: Kraków, Poland
-Date/time: 06/06/2019
-------------------------------
-Location: Amsterdam, Netherlands
-Venue: Ziggo Dome
-Date/time: 06/10/2019
-------------------------------
-Venue: AccorHotels Arena
-Date/time: 06/11/2019
-Location: Paris, France
-------------------------------
-Venue: Qudos Bank Arena
-Venue: TBA
-Location: Kaohsiung City, Taiwan
-
-*--------------------------------------------
-         BandsInTown API (concert-this) 
---------------------------------------------*
-
-*** maroon 5's upcoming concerts ***
+*** maroon 5 - upcoming concerts provided by BandsInTown ***
 
 Venue: Brisbane Entertainment Centre
 Date/time: 02/19/2019
+------------------------------
 Location: Brisbane, Australia
-------------------------------
-Location: Sydney, Australia
 Venue: Qudos Bank Arena
+------------------------------
 Date/time: 02/21/2019
-Venue: Rod Laver Arena
-------------------------------
-Date/time: 02/22/2019
-------------------------------
-Venue: Tokyo Dome
-Date/time: 02/25/2019
-Location: Melbourne, Australia
-Location: Tokyo, Japan
-------------------------------
-Location: Seoul, South Korea
-Location: Kaohsiung City, Taiwan
-Venue: TBA
-Date/time: 03/01/2019
-------------------------------
-Venue: TBA
-Location: Macau, Macau
-Date/time: 03/03/2019
-------------------------------
-Venue: SM Mall Of Asia
-Location: Manila, Philippines
-Date/time: 03/05/2019
-------------------------------
-Venue: NATIONAL STADIUM
-Date/time: 03/07/2019
-------------------------------
-Location: Singapore, Singapore
-Venue: CHALLENGER HALL
-Location: Bangkok, Thailand
-Date/time: 03/09/2019
-------------------------------
-Venue: Mollenpark
-Date/time: 06/01/2019
-Location: Aalborg, Denmark
-------------------------------
-Venue: Lanxess Arena
-Location: Cologne, Germany
-Date/time: 06/03/2019
-------------------------------
-Venue: O2 ARENA
-Location: Prague, Czech Republic
-Date/time: 06/05/2019
-------------------------------
-Venue: Tauron Arena
-Location: Kraków, Poland
-Date/time: 06/06/2019
-------------------------------
-Date/time: 06/10/2019
-Venue: Ziggo Dome
-Location: Amsterdam, Netherlands
-------------------------------
-Venue: AccorHotels Arena
-Location: Paris, France
-Date/time: 06/11/2019
-------------------------------
-------------------------------
-Venue: Gocheok Sky Dome
-Date/time: 02/27/2019
-
-*--------------------------------------------
-         BandsInTown API (concert-this) 
---------------------------------------------*
-
-*** maroon 5's upcoming concerts ***
-
-Venue: Brisbane Entertainment Centre
-Location: Brisbane, Australia
-Date/time: 02/19/2019
-------------------------------
 Location: Sydney, Australia
-Venue: Qudos Bank Arena
-Date/time: 02/21/2019
-------------------------------
 Venue: Rod Laver Arena
 Location: Melbourne, Australia
 Date/time: 02/22/2019
 ------------------------------
 Venue: Tokyo Dome
 Location: Tokyo, Japan
-------------------------------
 Date/time: 02/25/2019
+------------------------------
 Venue: Gocheok Sky Dome
 Location: Seoul, South Korea
+------------------------------
 Date/time: 02/27/2019
-------------------------------
 Venue: TBA
-Date/time: 03/01/2019
-------------------------------
 Location: Kaohsiung City, Taiwan
+------------------------------
+Date/time: 03/01/2019
 Venue: TBA
-Location: Macau, Macau
 Date/time: 03/03/2019
 ------------------------------
-Location: Manila, Philippines
+Location: Macau, Macau
 Venue: SM Mall Of Asia
+Location: Manila, Philippines
 Date/time: 03/05/2019
 ------------------------------
-Location: Singapore, Singapore
 Venue: NATIONAL STADIUM
+Location: Singapore, Singapore
 Date/time: 03/07/2019
 ------------------------------
 Venue: CHALLENGER HALL
@@ -405,8 +50,8 @@ Location: Aalborg, Denmark
 Date/time: 06/01/2019
 ------------------------------
 Venue: Lanxess Arena
-Date/time: 06/03/2019
 Location: Cologne, Germany
+Date/time: 06/03/2019
 ------------------------------
 Venue: O2 ARENA
 Location: Prague, Czech Republic
@@ -415,193 +60,549 @@ Date/time: 06/05/2019
 Location: Kraków, Poland
 Venue: Tauron Arena
 Date/time: 06/06/2019
-------------------------------
 Venue: Ziggo Dome
 Location: Amsterdam, Netherlands
-Date/time: 06/10/2019
 ------------------------------
-Venue: AccorHotels Arena
+Date/time: 06/10/2019
 Location: Paris, France
+------------------------------
 Date/time: 06/11/2019
+Venue: AccorHotels Arena
 ------------------------------
 
 *--------------------------------------------
          BandsInTown API (concert-this) 
 --------------------------------------------*
 
+*** Muse - upcoming concerts provided by BandsInTown ***
 
-*** maroon 5's upcoming concerts ***
-Venue: Brisbane Entertainment Centre
-Location: Brisbane, Australia
-------------------------------
-Location: Sydney, Australia
-Date/time: 02/21/2019
-Date/time: 02/19/2019
-------------------------------
-Venue: Qudos Bank Arena
-Venue: Rod Laver Arena
+Location: Houston, United States
+Venue: Toyota Center
 Date/time: 02/22/2019
-Date/time: 02/25/2019
-Venue: Tokyo Dome
 ------------------------------
-Location: Seoul, South Korea
-Date/time: 02/27/2019
-Venue: Gocheok Sky Dome
+Venue: American Airlines Center
+Date/time: 02/24/2019
+Location: Dallas, United States
 ------------------------------
-Venue: TBA
-Date/time: 03/01/2019
-Location: Kaohsiung City, Taiwan
+Venue: Talking Stick Resort Arena
+Date/time: 02/26/2019
+Location: Phoenix, United States
 ------------------------------
-Venue: TBA
-Location: Melbourne, Australia
+Location: Salt Lake City, United States
+Date/time: 02/28/2019
 ------------------------------
-Date/time: 03/03/2019
-Venue: SM Mall Of Asia
+Venue: Mandalay Bay Events Center
+Location: Las Vegas, United States
+------------------------------
+Date/time: 03/02/2019
+Venue: Valley View Casino Center
+Location: San Diego, United States
+------------------------------
+Venue: Vivint Smart Home Arena
 Date/time: 03/05/2019
-Location: Manila, Philippines
-------------------------------
-Venue: NATIONAL STADIUM
-Location: Singapore, Singapore
+Venue: Golden 1 Center
+Location: Sacramento, United States
 Date/time: 03/07/2019
 ------------------------------
-Venue: CHALLENGER HALL
-Date/time: 03/09/2019
-Location: Bangkok, Thailand
+Venue: Oracle Arena
+Location: Oakland, United States
 ------------------------------
-Venue: Mollenpark
-Location: Aalborg, Denmark
+Date/time: 03/09/2019
+Venue: Circuit Of the Americas
+------------------------------
+Date/time: 03/23/2019
+Location: Austin, United States
+Venue: BB&T Center
+Location: Sunrise, United States
+Date/time: 03/24/2019
+Location: Atlanta, United States
+Venue: State Farm Arena
+Date/time: 03/26/2019
+------------------------------
+Location: Toronto, Canada
+Date/time: 03/28/2019
+------------------------------
+Venue: Scotiabank Arena
+Venue: Bell Centre
+Date/time: 03/30/2019
+Location: Montreal, Canada
+------------------------------
+Venue: Videotron Centre
+Date/time: 03/31/2019
+------------------------------
+Location: Ville De Québec, Canada
+Venue: Capital One Arena
+Date/time: 04/02/2019
+Location: Washington, United States
+------------------------------
+Venue: Little Caesars Arena
+Location: Detroit, United States
+------------------------------
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date/time: 04/07/2019
+Venue: Madison Square Garden
+Location: New York, United States
+Date/time: 04/08/2019
+------------------------------
+Venue: TD Garden
+Location: Boston, United States
+Date/time: 04/10/2019
+------------------------------
+Venue: United Center
+Location: Chicago, United States
+Date/time: 04/12/2019
+------------------------------
+Date/time: 05/26/2019
+Location: Praha, Czech Republic
+------------------------------
+Venue: Letiště Praha Letňany
+Venue: Papp Laszlo Sports Arena
+Location: Budapest, Hungary
+Date/time: 05/28/2019
+------------------------------
+Date/time: 05/29/2019
+Venue: Stadthalle Graz
+Location: Graz, Austria
+------------------------------
+Venue: London Stadium U K
+Location: London, United Kingdom
 Date/time: 06/01/2019
 ------------------------------
-Venue: Lanxess Arena
-Date/time: 06/03/2019
-Location: Cologne, Germany
+Venue: Ashton Gate
+Location: Bristol, United Kingdom
 ------------------------------
-Venue: O2 ARENA
 Date/time: 06/05/2019
-Location: Prague, Czech Republic
+Venue: Etihad Stadium
+Location: Manchester, United Kingdom
+Date/time: 06/08/2019
 ------------------------------
+Venue: Arēna Rīga
+Location: Rīga, Latvia
+Date/time: 06/12/2019
+------------------------------
+Venue: Luzhniki Stadium
+Date/time: 06/15/2019
+------------------------------
+Location: Moskva, Russia
+Location: Helsinki, Finland
+Date/time: 06/18/2019
+------------------------------
+Venue: Suvilahti
 Venue: Tauron Arena
-------------------------------
 Location: Kraków, Poland
+Date/time: 06/22/2019
 ------------------------------
-Location: Amsterdam, Netherlands
-Venue: Ziggo Dome
-Date/time: 06/10/2019
+Venue: Goffertpark
+Location: Nijmegen, Netherlands
+Date/time: 06/27/2019
 ------------------------------
-Venue: AccorHotels Arena
-Date/time: 06/11/2019
-Location: Macau, Macau
+Venue: RheinEnergieSTADION
+Location: Köln, Germany
+Date/time: 06/29/2019
 ------------------------------
+Location: Werchter, Belgium
+Date/time: 06/30/2019
+Venue: Festivalpark Werchter
+------------------------------
+Venue: Hallenstadion
+Date/time: 07/03/2019
+------------------------------
+Location: Zürich, Switzerland
+Venue: Stade de France
 Location: Paris, France
-Date/time: 06/06/2019
-Location: Tokyo, Japan
+Date/time: 07/05/2019
+------------------------------
+Venue: Stade de France
+Location: Paris, France
+Date/time: 07/06/2019
+------------------------------
+Venue: Orange Vélodrome
+------------------------------
+Date/time: 07/09/2019
+------------------------------
+Venue: San Siro Stadium
+Location: Milan, Italy
+Date/time: 07/12/2019
+------------------------------
+Venue: San Siro Stadium
+Location: Milano, Italy
+Date/time: 07/13/2019
+Date/time: 04/04/2019
+Location: Bordeaux, France
+Date/time: 07/16/2019
+Venue: Matmut Atlantique
+------------------------------
+Location: Rome, Italy
+Date/time: 07/20/2019
+Venue: Stadio Olimpico
+------------------------------
+Venue: Passeio Maritimo de Alges
+Date/time: 07/24/2019
+Location: Lisbon, Portugal
+------------------------------
+Venue: Wanda Metropolitano Stadium
+Date/time: 07/26/2019
+------------------------------
+Location: Madrid, Spain
+Venue: The Formula 1 Singapore Grand Prix
+Location: Singapore, Singapore
+Date/time: 09/21/2019
+------------------------------
+Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+Location: Rio De Janeiro, Brazil
+Date/time: 10/06/2019
+------------------------------
+------------------------------
+Location: Marseille, France
+------------------------------
 
 *--------------------------------------------
          Spotify API (spotify-this-song) 
 --------------------------------------------*
 
 
-*** All the Small Things's song info ***
-blink-182
-All The Small Things
-https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
-Enema Of The State
+*** demons - song info provided by Spotify ***
+Album: Hoodie SZN
+Link to song: https://open.spotify.com/track/3L19besdNQzd342qL78xqm
+Song: Demons and Angels (feat. Juice WRLD)
+Artist: A Boogie Wit da Hoodie
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** demons imagine dragons - song info provided by Spotify ***
+
+Artist: Imagine Dragons
+Album: Night Visions
+Link to song: https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a
+Song: Demons
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** The Sign - song info provided by Spotify ***
+
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Song: Scared of the Dark (feat. XXXTENTACION)
+Link to song: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Artist: Various Artists
 
 *--------------------------------------------
          Spotify API (spotify-this-song) 
 --------------------------------------------*
 
 
-*** All the Small Things's song info ***
+*** The Sign ace of base - song info provided by Spotify ***
+Artist: Ace of Base
+Link to song: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Song: The Sign
+Album: The Sign (US Album) [Remastered]
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+
+*** The Sign - song info provided by Spotify ***
+Artist: Various Artists
+Song: Scared of the Dark (feat. XXXTENTACION)
+Link to song: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** The Sign ace of base - song info provided by Spotify ***
+
+Artist: Ace of Base
+Song: The Sign
+Link to song: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+
+*--------------------------------------------
+               OMDb API (movie-this) 
+--------------------------------------------*
+
+
+*** Mr. Nobody - movie info provided by OMDb ***
+Rotten Tomatoes rating: 67%
+Title: Mr. Nobody
+IMDb Rating: 7.9/10
+Country: Belgium, Germany, Canada, France, USA, UK
+Release Year: 2009
+Language(s): English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+------------------------------
+
+*--------------------------------------------
+               OMDb API (movie-this) 
+--------------------------------------------*
+
+
+*** Mr. Nobody - movie info provided by OMDb ***
+IMDb Rating: 7.9/10
+Title: Mr. Nobody
+Release Year: 2009
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Country: Belgium, Germany, Canada, France, USA, UK
+------------------------------
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Language(s): English, Mohawk
+Rotten Tomatoes rating: 67%
+
+*--------------------------------------------
+               OMDb API (movie-this) 
+--------------------------------------------*
+
+*** Mr. Nobody - movie info provided by OMDb ***
+Title: Mr. Nobody
+
+Rotten Tomatoes rating: 67%
+IMDb Rating: 7.9/10
+Release Year: 2009
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Country: Belgium, Germany, Canada, France, USA, UK
+Language(s): English, Mohawk
+------------------------------
+
+*--------------------------------------------
+         BandsInTown API (concert-this) 
+--------------------------------------------*
+
+*** Muse - upcoming concerts provided by BandsInTown ***
+
+------------------------------
+Venue: American Airlines Center
+Location: Dallas, United States
+Date/time: 02/24/2019
+------------------------------
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date/time: 02/26/2019
+------------------------------
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, United States
+Date/time: 02/28/2019
+------------------------------
+Venue: Mandalay Bay Events Center
+Location: Las Vegas, United States
+Date/time: 03/02/2019
+------------------------------
+Venue: Valley View Casino Center
+Location: San Diego, United States
+Date/time: 03/05/2019
+Location: Houston, United States
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date/time: 03/07/2019
+------------------------------
+Venue: Oracle Arena
+Location: Oakland, United States
+Date/time: 03/09/2019
+------------------------------
+Venue: Circuit Of the Americas
+Location: Austin, United States
+Venue: Toyota Center
+------------------------------
+Venue: BB&T Center
+Location: Sunrise, United States
+------------------------------
+------------------------------
+Date/time: 03/23/2019
+Location: Atlanta, United States
+Date/time: 02/22/2019
+Date/time: 03/26/2019
+Date/time: 03/24/2019
+Location: Toronto, Canada
+Venue: State Farm Arena
+------------------------------
+Venue: Bell Centre
+Location: Montreal, Canada
+Date/time: 03/30/2019
+------------------------------
+Venue: Videotron Centre
+Venue: Scotiabank Arena
+------------------------------
+Date/time: 03/28/2019
+Venue: Capital One Arena
+Location: Washington, United States
+------------------------------
+------------------------------
+Venue: Little Caesars Arena
+Location: Detroit, United States
+Date/time: 04/04/2019
+------------------------------
+Date/time: 04/02/2019
+Location: Ville De Québec, Canada
+Date/time: 04/07/2019
+------------------------------
+Venue: Madison Square Garden
+Date/time: 03/31/2019
+------------------------------
+Date/time: 04/08/2019
+Venue: TD Garden
+Date/time: 04/10/2019
+Location: Boston, United States
+Location: New York, United States
+Venue: United Center
+Location: Philadelphia, United States
+Date/time: 04/12/2019
+------------------------------
+Venue: Letiště Praha Letňany
+Location: Praha, Czech Republic
+Venue: Wells Fargo Center
+------------------------------
+------------------------------
+Venue: Papp Laszlo Sports Arena
+Location: Budapest, Hungary
+------------------------------
+Date/time: 05/28/2019
+Location: Chicago, United States
+------------------------------
+Location: Graz, Austria
+Location: London, United Kingdom
+Date/time: 06/01/2019
+Date/time: 05/26/2019
+------------------------------
+Location: Bristol, United Kingdom
+Venue: Ashton Gate
+Date/time: 06/05/2019
+------------------------------
+Venue: Etihad Stadium
+Location: Manchester, United Kingdom
+Venue: London Stadium U K
+------------------------------
+Venue: Arēna Rīga
+Location: Rīga, Latvia
+------------------------------
+Date/time: 06/12/2019
+Venue: Luzhniki Stadium
+Location: Moskva, Russia
+Date/time: 06/08/2019
+Venue: Stadthalle Graz
+------------------------------
+Venue: Suvilahti
+Date/time: 05/29/2019
+Location: Helsinki, Finland
+Venue: Tauron Arena
+Date/time: 06/18/2019
+Date/time: 06/22/2019
+Date/time: 06/15/2019
+Location: Kraków, Poland
+Location: Nijmegen, Netherlands
+------------------------------
+Venue: Goffertpark
+Venue: RheinEnergieSTADION
+Date/time: 06/27/2019
+Date/time: 06/29/2019
+------------------------------
+Location: Köln, Germany
+------------------------------
+------------------------------
+Venue: Festivalpark Werchter
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date/time: 07/03/2019
+------------------------------
+Venue: Stade de France
+Location: Werchter, Belgium
+Date/time: 06/30/2019
+------------------------------
+Venue: Stade de France
+Location: Paris, France
+Date/time: 07/06/2019
+Location: Paris, France
+Venue: Orange Vélodrome
+Location: Marseille, France
+Date/time: 07/09/2019
+------------------------------
+Venue: San Siro Stadium
+Location: Milan, Italy
+Date/time: 07/05/2019
+------------------------------
+------------------------------
+Date/time: 07/12/2019
+------------------------------
+Location: Milano, Italy
+Venue: Matmut Atlantique
+Location: Bordeaux, France
+Venue: San Siro Stadium
+------------------------------
+------------------------------
+Location: Rome, Italy
+Date/time: 07/20/2019
+Venue: Stadio Olimpico
+Date/time: 07/16/2019
+Date/time: 07/13/2019
+Date/time: 07/24/2019
+Venue: Passeio Maritimo de Alges
+Location: Lisbon, Portugal
+Location: Madrid, Spain
+------------------------------
+------------------------------
+Venue: The Formula 1 Singapore Grand Prix
+Date/time: 07/26/2019
+------------------------------
+------------------------------
+Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+Date/time: 10/06/2019
+Date/time: 09/21/2019
+------------------------------
+Venue: Wanda Metropolitano Stadium
+Location: Rio De Janeiro, Brazil
+Location: Singapore, Singapore
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+
+*** The Sign ace of base - song info provided by Spotify ***
+Artist: Ace of Base
+Link to song: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+Song: The Sign
+
+*--------------------------------------------
+         Spotify API (spotify-this-song) 
+--------------------------------------------*
+
+*** all the small things - song info provided by Spotify ***
 Artist: blink-182
-Link to song: https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
 Song: All The Small Things
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-*** All the Small Things's song info ***
-
-Artist: blink-182
-Song: All The Small Things
-Link to song: https://api.spotify.com/v1/tracks/7yCPwWs66K8Ba5lFuU2bcx
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-
-*** All the Small Things's song info ***
-Artist: blink-182
-Song: All The Small Things
-Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-
-*** All the Small Things's song info ***
-Song: All The Small Things
-Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
-Artist: blink-182
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-*** All the Small Things's song info ***
-
-Artist: blink-182
-Song: All The Small Things
-Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-*** All the Small Things's song info ***
-
-Album: Enema Of The State
-Artist: blink-182
-Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
-Song: All The Small Things
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-*** All the Small Things's song info ***
-
-Artist: blink-182
-Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
-Song: All The Small Things
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-*** All the Small Things's song info ***
-
-Link to song: https://api.spotify.com/v1/albums/5qt11cWjSs5Gbqj2Wyfu38
-Artist: blink-182
-Song: All The Small Things
-Album: Enema Of The State
-
-*--------------------------------------------
-         Spotify API (spotify-this-song) 
---------------------------------------------*
-
-*** All the Small Things's song info ***
-
-Artist: blink-182
-Song: All The Small Things
-Album: Enema Of The State
 Link to song: https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx
+Album: Enema Of The State
+
+
+*--------------------------------------------
+               OMDb API (movie-this) 
+--------------------------------------------*
+
+*** inception - movie info provided by OMDb ***
+
+Title: Inception
+IMDb Rating: 8.8/10
+Rotten Tomatoes rating: 86%
+Country: USA, UK
+Language(s): English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+Release Year: 2010
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+------------------------------
+
+*--------------------------------------------
+         Spotify API (do-what-it-says) 
+--------------------------------------------*
+
+*** "I Want it That Way" - song info provided by Spotify ***
+Artist: Backstreet Boys
+Song: I Want It That Way
+
+Link to song: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
